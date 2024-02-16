@@ -7,6 +7,7 @@ Run ng serve for a dev server.
 
 Technology used
 Fronted - HTML, CSS, Angular JS 17, NPM, NODE JS
+
 Backend - Java, Spring Boot, Spring JDBC, Hibernate, ORM Tool, POSTMAN
 
 Further help
