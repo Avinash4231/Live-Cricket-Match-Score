@@ -5,7 +5,7 @@ This project was generated with Angular CLI version 17.0.0.
 Development server
 Run ng serve for a dev server. 
 
-Technology used
+#Technology used
 Fronted - HTML, CSS, Angular JS 17, NPM, NODE JS
 
 Backend - Java, Spring Boot, Spring JDBC, Hibernate, ORM Tool, POSTMAN
